@@ -1,0 +1,9 @@
+[submodule "pet_shop_frontend"]
+	path = pet_shop_frontend
+	url = https://github.com/hieujojo/pet_shop_frontend.git
+[submodule "backend/pet_shop_backend"]
+	path = backend/pet_shop_backend
+	url = https://github.com/hieujojo/pet_shop_backend
+[submodule "petshop-admin"]
+	path = petshop-admin
+	url = https://gitlab.com/vothithanhhuyen24/petshop-admin.git
